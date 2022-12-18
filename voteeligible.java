@@ -6,10 +6,12 @@ class voteeligible
     {
          Scanner scanner=new Scanner(System.in);
          int a = scanner.nextInt();
-         boolean voting_registered=true;
+         Scanner scanner2=new Scanner(System.in);
+        
+         boolean vote=scanner2.nextBoolean();
     if(a>=18)
     {
-        if(voting_registered==true)
+        if( vote==true)
         {
             System.out.println("you are ealigible");
         }
