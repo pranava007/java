@@ -21,3 +21,5 @@ class useoperators
         }
     }
 }
+
+// && and oprater 2duma crt eruckanum, || 2dula onu crt erutha pothu,
