@@ -8,11 +8,11 @@ class variable
 		char genter ='M';
 		boolean married = true;
 
-		System.out.println("Age  :"+age);
-        System.out.println("name :"+name);
-        System.out.println("b    :"+b);
-        System.out.println("genter:"+genter);
-        System.out.println("married :"+married);
+		System.out.println("Age     :"+age);
+                System.out.println("name    :"+name);
+                System.out.println("b       :"+b);
+                System.out.println("genter  :"+genter);
+                System.out.println("married :"+married);
 
 
 	}
