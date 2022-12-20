@@ -7,7 +7,7 @@ class casting
 		int c=(int)d;
 		System.out.println("int :"+a);
 		System.out.println("double :"+b);
-        System.out.println("c :"+c);
+                System.out.println("c :"+c);
 		System.out.println("d :"+d);
 	}
 }
